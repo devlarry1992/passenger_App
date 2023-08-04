@@ -1,0 +1,14 @@
+button{
+    color: white;
+    background-color: #5f9341;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+
+}
+
+#save-btn {
+    background-color: darkred;
+}
